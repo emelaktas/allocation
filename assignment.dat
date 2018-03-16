@@ -1,0 +1,6 @@
+set STUD := S1 S2 S3;
+set PROJ := P1 P2 P3 P4;
+param cost: P1 P2 P3 P4 :=
+         S1 10  1 100 1000
+         S2 1  100 10 1000
+         S3 1 10 100 10;
